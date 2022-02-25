@@ -2,4 +2,4 @@
 
 ## Algorithms
 
-1. Two Sum
+* [1. Two Sum](https://github.com/crayOmn/leetcode_java/blob/main/src/algorithms/TwoSum.java)
